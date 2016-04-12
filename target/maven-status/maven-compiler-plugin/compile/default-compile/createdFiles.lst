@@ -1,0 +1,3 @@
+spout\FileReader.class
+runner\StormRunner.class
+bolt\LineReader.class
